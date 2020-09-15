@@ -15,7 +15,6 @@
   > - joi       - For schema validation
   
 
-
 ## 3 - Application Structure:   
 
   > index.js  
