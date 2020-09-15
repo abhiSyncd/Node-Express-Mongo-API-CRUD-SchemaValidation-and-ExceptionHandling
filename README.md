@@ -14,7 +14,6 @@
   > - mongoose  - For modeling and mapping MongoDB data to javascript
   > - joi       - For schema validation
  
-
 ## 3 - Application Structure:   
 
   > index.js  
