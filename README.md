@@ -1,6 +1,6 @@
 
 
-# Node-Express-Mongo-API-CRUD-SchemaValidation-and-ExceptionHandling
+# Node-Express-Mongo-API-CRUD | SchemaValidation-&-ExceptionHandling
 
 
 ## 1- To get the Node server running locally:   
