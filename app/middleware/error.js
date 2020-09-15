@@ -7,6 +7,7 @@ module.exports = function(err, req, res, next){
     });
   }
 
+  
   res.status(500).json({
     url : req.url,
     type: 'Server Exception (or Unhandled Promise Exception)',
