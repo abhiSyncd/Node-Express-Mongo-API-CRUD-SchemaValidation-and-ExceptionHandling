@@ -13,7 +13,7 @@
   > - expressjs - The server for handling and routing HTTP requests
   > - mongoose  - For modeling and mapping MongoDB data to javascript
   > - joi       - For schema validation
-  
+ 
 
 ## 3 - Application Structure:   
 
