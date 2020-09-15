@@ -2,6 +2,7 @@
 
 # Node-Express-Mongo-API-CRUD-SchemaValidation-and-ExceptionHandling
 
+
 ## 1- To get the Node server running locally:   
 
   > - Install MongoDB Community Edition (instructions) and run it by executing 'mongod' command  
