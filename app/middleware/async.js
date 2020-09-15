@@ -12,7 +12,6 @@ module.exports = function asyncMiddleware(handler){
 }
 
 
-
 /**
 GIVEN : 
     router.get('/getAllEmployees', async (req,res) => {
