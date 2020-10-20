@@ -3,8 +3,8 @@
 # Node-Express-Mongo-API-CRUD | SchemaValidation-&-ExceptionHandling
 
     Note : This project is primary focussed on : Validation | Exception Handling 
-          If you need to see fully Functional advance Crud operations(Involiving all cases)
-          Please refer my "Node-Express-Mongo-API-CRUD (Advance)"
+           If you need to see fully Functional advance Crud operations(Involiving all cases) in employeeRoutes.js
+           Please refer my "Node-Express-Mongo-API-CRUD (Advance)"
 
 ## 1- To get the Node server running locally:   
 
